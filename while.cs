@@ -1,7 +1,9 @@
+//incluir a biblioteca
 using System;
-
+//classe
 class Program
 {
+    //programa principal
     static void Main(string[] args)
     {
         int num, i = 1;
