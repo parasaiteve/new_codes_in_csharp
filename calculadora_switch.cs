@@ -1,5 +1,6 @@
+//incluir a biblioteca
 using System;
-
+// classe
 class Program
 {
     static void Main(string[] args)
