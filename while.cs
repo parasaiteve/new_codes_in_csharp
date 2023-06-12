@@ -24,4 +24,3 @@ class Program
         Console.ReadLine();
     }
 }
-//vai corinthians
